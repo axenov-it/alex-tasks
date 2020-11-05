@@ -1,0 +1,11 @@
+.task-name {
+  max-width: 1000px;
+  margin: auto;
+}
+
+.container {
+  margin: auto;
+  border: 1px solid;
+  min-height: 600px;
+  max-width: 1000px;
+}
